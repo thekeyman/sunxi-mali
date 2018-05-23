@@ -1,0 +1,7 @@
+0001-makefile-Add-install-target-and-build-the-module-by-.patch
+0003-mali-Support-building-against-4.8.patch
+0005-mali-Add-sunxi-platform.patch
+0010-mali-support-building-against-4.12.patch
+0015-Enable-parallel-building-passing-variable-to-Makefile.patch
+r5p0/0017-mali-sunxi-h5-platform.patch
+r5p0/0018-mali-r5p0-support-building-against-4.14.patch
