@@ -5,3 +5,4 @@
 0015-Enable-parallel-building-passing-variable-to-Makefile.patch
 r5p0/0017-mali-sunxi-h5-platform.patch
 r5p0/0018-mali-r5p0-support-building-against-4.14.patch
+r5p0/0090-fix-4.19.patch
